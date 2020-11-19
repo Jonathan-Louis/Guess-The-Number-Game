@@ -1,0 +1,10 @@
+com\jonathanlouis\interceptor\RequestInterceptor.class
+com\jonathanlouis\util\AttributeNames.class
+com\jonathanlouis\service\GameServiceImpl.class
+com\jonathanlouis\WebMain.class
+com\jonathanlouis\util\ViewNames.class
+com\jonathanlouis\util\thymeleaf\DecoupledLogicSetup.class
+com\jonathanlouis\service\GameService.class
+com\jonathanlouis\config\WebConfig.class
+com\jonathanlouis\util\GameMappings.class
+com\jonathanlouis\controller\GameController.class
